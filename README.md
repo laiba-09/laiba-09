@@ -1,7 +1,9 @@
-- [About me](#Aboutme:)
-- [Skill](#Skills:)
-- [My GitHub Repositories](#MyGitHubRepositories:)
-- [Contact me](#Contactme:)
+##  Table of Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [My GitHub Repositories](#my-github-repositories)
+- [Contact Me](#contact-me)
+
 
 ## About me:
 
@@ -36,13 +38,13 @@ Data Science\
  -Graphic Designing
  -Data Science
  ## My GitHub Repositories:
- -(https://github.com/laiba-09/Sales-forcasting.git)\
+ -(https://github.com/laiba-09/Sales-forcasting.git) \
  *It is basically ML project that help to forecast that which medium of advertisement generate high sales*\
- -(https://github.com/laiba-09/web.git)\
+ -(https://github.com/laiba-09/web.git) \
  *This is the class project where i create the front-end of the website named shirts store*
  ## Contact me:
- **LinkedIn profile**
- -(www.linkedin.com/in/laiba-zainab-609227323)\
- **E-mail ID**
- -(laibazainab101@gmail.com)\
+ **LinkedIn**
+ -(www.linkedin.com/in/laiba-zainab-609227323)
+ **E-mail**\
+ -(laibazainab101@gmail.com)
 
