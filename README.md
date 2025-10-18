@@ -1,7 +1,7 @@
-- [About me](#About me:)
+- [About me](#Aboutme:)
 - [Skill](#Skills:)
-- [My GitHub Repositories](#My GitHub Repositories:)
-- [Contact me](#Contact me:)
+- [My GitHub Repositories](#MyGitHubRepositories:)
+- [Contact me](#Contactme:)
 
 ## About me:
 
