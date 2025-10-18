@@ -1,3 +1,8 @@
+- [About me](#About me:)
+- [Skill](#Skills:)
+- [My GitHub Repositories](#My GitHub Repositories:)
+- [Contact me](#Contact me:)
+
 ## About me:
 
 <!--
@@ -23,7 +28,7 @@ Data Science\
 **Introduction**\
 *I am a Master’s student in Data Science at the University of the Punjab with a strong foundation in computer science and hands-on experience in machine learning, data analytics, and software development. Over the past few years, I have worked as a Data Analytics Intern, freelance Graphic Designer, and Frontend Developer, gaining practical exposure to both research and industry projects. Skilled in Python, ML frameworks, Flask, and data visualization, I have developed AI-powered applications such as a Loan Approval Prediction System and sales forecasting models.*\
 **Goals**\
- I am passionate about applying data-driven approaches to solve real-world problems in AI, and research-driven domains.\
+ I am passionate about applying data-driven approaches to solve real-world problems in AI, and research-driven domains.
  ## Skills:
  -Python
  -Data Analytics
@@ -31,7 +36,13 @@ Data Science\
  -Graphic Designing
  -Data Science
  ## My GitHub Repositories:
+ -(https://github.com/laiba-09/Sales-forcasting.git)\
+ *It is basically ML project that help to forecast that which medium of advertisement generate high sales*\
+ -(https://github.com/laiba-09/web.git)\
+ *This is the class project where i create the front-end of the website named shirts store*
  ## Contact me:
- -(www.linkedin.com/in/laiba-zainab-609227323)
- -(laibazainab101@gmail.com)
+ **LinkedIn profile**
+ -(www.linkedin.com/in/laiba-zainab-609227323)\
+ **E-mail ID**
+ -(laibazainab101@gmail.com)\
 
