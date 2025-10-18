@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 **Name**\
 Laiba Zainab\
 **University**\
-The University of the Punjab 
+The University of the Punjab \
 **Department**\
-Data Science
+Data Science\
 **Introduction**\
 *I am a Master’s student in Data Science at the University of the Punjab with a strong foundation in computer science and hands-on experience in machine learning, data analytics, and software development. Over the past few years, I have worked as a Data Analytics Intern, freelance Graphic Designer, and Frontend Developer, gaining practical exposure to both research and industry projects. Skilled in Python, ML frameworks, Flask, and data visualization, I have developed AI-powered applications such as a Loan Approval Prediction System and sales forecasting models.*\
 **Goals**\
- I am passionate about applying data-driven approaches to solve real-world problems in AI, and research-driven domains.
+ I am passionate about applying data-driven approaches to solve real-world problems in AI, and research-driven domains.\
  **Skills**\
  -Python
  -Data Analytics
