@@ -44,7 +44,7 @@ Data Science\
  *This is the class project where i create the front-end of the website named shirts store*
  ## Contact me:
  **LinkedIn**
- -(www.linkedin.com/in/laiba-zainab-609227323)
- **E-mail**\
+ -(www.linkedin.com/in/laiba-zainab-609227323) \
+ **E-mail**
  -(laibazainab101@gmail.com)
 
